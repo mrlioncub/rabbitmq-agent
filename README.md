@@ -20,13 +20,13 @@ docker run --rm --link rabbitmq-server:rabbitmq-server mrlioncub/rabbitmq-agent 
 docker run --rm --link rabbitmq-server:rabbitmq-server mrlioncub/rabbitmq-agent sender 10
 ```
 ## Environment variables
-  If you wish to change the default username, password or hosname to connect rabbitmq server, you can do so with environmental variables:
+If you wish to change the default username, password or hosname to connect rabbitmq server, you can do so with environmental variables:
   - RABBITMQ_USER
-    default username 'guest'
+    (default username 'guest')
   - RABBITMQ_PASS
-    default password 'guest'
+    (default password 'guest')
   - RABBITMQ_HOST
-    default hostname 'rabbitmq_server'
+    (default hostname 'rabbitmq_server')
 
 ## Links
   - RabbitMQ Tutorials (https://www.rabbitmq.com/getstarted.html)
