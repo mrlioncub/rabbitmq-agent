@@ -1,7 +1,9 @@
 # rabbitmq-agent
 [![Build Status](https://img.shields.io/docker/cloud/build/mrlioncub/rabbitmq-agent)](https://hub.docker.com/r/mrlioncub/rabbitmq-agent)
-[![Docker Automated build](https://img.shields.io/docker/cloud/automated/mrlioncub/rabbitmq-agent)](https://hub.docker.com/r/mrlioncub/rabbitq-agent)
-[![Docker Image Size](https://img.shields.io/docker/cloud/image-size/mrlioncub/rabbitmq-agent/latest)](https://hub.docker.com/r/mrlioncub/rabbitq-agent)
+[![Docker Automated build](https://img.shields.io/docker/cloud/automated/mrlioncub/rabbitmq-agent)](https://hub.docker.com/r/mrlioncub/rabbitmq-agent)
+[![Docker Image Size](https://img.shields.io/docker/image-size/mrlioncub/rabbitmq-agent/latest)](https://hub.docker.com/r/mrlioncub/rabbitmq-agent)
+
+Sender and reciever messages for RabbitMQ
 
 # How to use this image
 ## Example
